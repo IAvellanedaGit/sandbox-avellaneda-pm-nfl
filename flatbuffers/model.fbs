@@ -1,0 +1,36 @@
+namespace model;
+
+table InitializeRequest {
+    log_level:int;
+}
+
+table StringResponse {
+    output:string;
+    error:string;
+}
+
+table TeamRequest {
+    conference:string;
+    team:string;
+}
+
+table PredictScoreRequest {
+    afc:string;
+    nfc:string;
+}
+
+table PredictScoreResponse {
+    afc:int;
+    nfc:int;
+    error:string;
+}
+
+table BoolResponse {
+    output:bool;
+    error:string;
+}
+
+table IntResponse {
+    output:int;
+    error:string;
+}
