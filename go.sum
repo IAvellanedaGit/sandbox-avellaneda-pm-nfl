@@ -1,9 +1,9 @@
 github.com/IAvellanedaGit/nuevo-platform-mobile-bridge v0.1.0 h1:iSJpStjl8P5ia0GeBsyNd67PSKVVoUi5Wad1ffEA3mQ=
 github.com/IAvellanedaGit/nuevo-platform-mobile-bridge v0.1.0/go.mod h1:3Y1/QB86S7eMWWy1fgGyhVKBRDmTiWXQa5bMGnpzS8w=
-github.com/IAvellanedaGit/sandbox-avellaneda-pm-nfl-afc v0.1.0 h1:JvwfyIpztH5A2DUIV7mMus4JrDCAf34NkhOZHw0vj/U=
-github.com/IAvellanedaGit/sandbox-avellaneda-pm-nfl-afc v0.1.0/go.mod h1:9pK5ZuBk3JetVnpvhFs1rU0mdRcaF8RfORM1bGrpwM4=
-github.com/IAvellanedaGit/sandbox-avellaneda-pm-nfl-nfc v0.1.0 h1:nUhxtEvfdYy4XG1k8P7ne3jzlMsUnJy7B0TNmG9bAcY=
-github.com/IAvellanedaGit/sandbox-avellaneda-pm-nfl-nfc v0.1.0/go.mod h1:v+h4EuwRSEk2E938vPARNrkbNBQBUZWn4ROP/hr6e+w=
+github.com/IAvellanedaGit/sandbox-avellaneda-pm-nfl-afc v0.1.1 h1:5PBIv+YFG0UIOiBFFoU/wJAtWTWfFB3ATs7aFSFzaWw=
+github.com/IAvellanedaGit/sandbox-avellaneda-pm-nfl-afc v0.1.1/go.mod h1:9pK5ZuBk3JetVnpvhFs1rU0mdRcaF8RfORM1bGrpwM4=
+github.com/IAvellanedaGit/sandbox-avellaneda-pm-nfl-nfc v0.1.1 h1:hP2B4GkGjrLs7tTxpp5cKOjuM1uUz561+9OOFr2zA10=
+github.com/IAvellanedaGit/sandbox-avellaneda-pm-nfl-nfc v0.1.1/go.mod h1:v+h4EuwRSEk2E938vPARNrkbNBQBUZWn4ROP/hr6e+w=
 github.com/google/flatbuffers v23.5.26+incompatible h1:M9dgRyhJemaM4Sw8+66GHBu8ioaQmyPLg1b8VwK5WJg=
 github.com/google/flatbuffers v23.5.26+incompatible/go.mod h1:1AeVuKshWv4vARoZatz6mlQ0JxURH0Kv5+zNeJKJCa8=
 github.com/google/uuid v1.3.1 h1:KjJaJ9iWZ3jOFZIf1Lqf4laDRCasjl0BCmnEGxkdLb4=
